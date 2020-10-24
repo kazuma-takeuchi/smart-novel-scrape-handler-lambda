@@ -12,3 +12,4 @@
 | 変数名 | 値 |
 | ---- | ---- |
 | PKEY | scraping-target |
+| TABLE_NAME | control |
